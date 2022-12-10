@@ -5,10 +5,10 @@
 </p>
   <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=WELCOME;Nama+Saya+Diki OFFC%2C++Yo+%3A);HoHoHo" alt="budii">
   
-━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ## </p>
  ## <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&singleline=false&lines=INFO BOT" alt="budii">
-━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 [![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62812607308301) 
 [![OWNER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281260730830) 
 [![CONTACK SUPPORT](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285223884761) 
