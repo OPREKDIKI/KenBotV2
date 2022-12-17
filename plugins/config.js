@@ -1,3 +1,4 @@
+
 import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath } from 'url'
@@ -30,71 +31,67 @@ let name = conn.getName(m.sender)*/
     const more = String.fromCharCode(8206)
 const readMore = more.repeat(4001)
 
-      /*============== SOCIAL ==============*/
-
-// kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
- // my youtube channel
-
-//⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
+/*============== SOCIAL ==============*/
 
 global.owner = [
-['62 83896973069', 'Andre', true],
-['79916542607', 'Arifzyn', true]
+['6281260730830', '◈𝙳𝚒𝚔𝚒𝚂𝚒𝚖𝚊𝚛𝚖𝚊𝚝𝚊', true],
+['6285223884761', '𖨆𝙲𝚘𝚗𝚝𝚊𝚌𝚔 𝚂𝚎𝚛𝚟𝚒𝚌𝚎', true], 
+['6281995062860', '𖨆𝙰𝚗𝚍𝚛𝚎 𝙾𝚠𝚗2', true]
 ]
-global.mods = []
+global.mods = ['6285223884761', '6281260730830']
 global.prems = []
-global.nomorbot = '6281372197701'
-global.nomorown = '6283896973069'
-global.nomorown1 = '62895347198105'
-global.nomorown2 = '62895347198105'
+global.nomorbot = '62812607308301'
+global.nomorown = '6281260730830'
+global.nomorown1 = '6281995062860'
+global.nomorown2 = '6285223884761'
 global.nomorwa = '0'
 
 
-//⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
+//WM
 
 global.readMore = readMore
-global.author = 'Andre X AkioBot'
-global.namebot = '​√Akio-Bot 𝙼𝚍'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 √Akio-Bot𝐌𝐝'
-global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
-global.wm = 'AkioBot-Md '
+global.author = '𝙳𝚒𝚔𝚒 𝚇 𝙺𝚎𝚗 𝙱𝚘𝚝'
+global.namebot = '◈ 𝙺𝚎𝚗 𝙱𝚘𝚝'
+global.wm = '◈ 𝙺𝚎𝚗 𝙱𝚘𝚝'
+global.media = 'https://telegra.ph/file/16770368c41f32cf80883.jpg'
+global.wm = '◉ 𝙺𝚎𝚗 𝙱𝚘𝚝 '
 global.watermark = wm
-global.wm2 = '√Akio-Bot 𝑴𝒅 '
-global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
-global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `Andre 𝐗 Akio-Bot`
-global.stickpack = 'Andre'
-global.stickauth = `© √Akio-Bot MD`
+global.wm2 = '▣ 𝙺𝚎𝚗 𝙱𝚘𝚝 '
+global.botdate = `𝚃𝚊𝚗𝚐𝚐𝚊𝚕: ${week} ${date}\n𝚆𝚊𝚔𝚝𝚞: ${wktuwib}`
+global.bottime = `𝚆𝚊𝚔𝚝𝚞 : ${wktuwib}`
+global.titlebot = `𝙳𝚒𝚔𝚒 𝚇 𝙺𝚎𝚗 𝙱𝚘𝚝`
+global.stickpack = '◉ 𝙳𝚒𝚔𝚒 𝚂𝚒𝚖𝚊𝚛𝚖𝚊𝚝𝚊'
+global.stickauth = `◈ 𝙺𝚎𝚗 𝙱𝚘𝚝 𝙼𝚍`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
-//⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= '√Andre'
-global.nameown2 = '√Akio-Bot'
-//⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.Linkgc = 'https://chat.whatsapp.com/IheHPLZooK3IKMmYuzx0HF'
-global.lynk = '𝐆𝐝𝐚 𝐖𝐤𝐰𝐤'
+//OWNER INFO
+global.nameown1= '◉ 𝙳𝚒𝚔𝚒 𝚂𝚒𝚖𝚊𝚛𝚖𝚊𝚝𝚊'
+global.nameown2 = '𝙺𝚎𝚗 𝙱𝚘𝚝 𝙼𝚍'
+//MEDIA LINK
+global.Linkgc = 'https://chat.whatsapp.com/EhFyoDh3kp8GCXoKuEPHCu'
+global.lynk = 'dikisimarmata.tk'
 
 
-//⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/Arifzyn19_'
-global.sgh = 'https://github.com/RifXz19' //github
-global.sgc = 'https://chat.whatsapp.com/IheHPLZooK3IKMmYuzx0HF' //group whatsapp
-global.sdc = '-' //discord
-global.snh = 'https://youtube.com/channel/--'
+//MEDIA SOSSIAL
+global.sig = 'https://wa.me/+6285223884761'
+global.sgh = 'https://github.com/OPREKDIKI' //github
+global.sgc = 'https://chat.whatsapp.com/EhFyoDh3kp8GCXoKuEPHCu' //group whatsapp
+global.sdc = 'https://wa.me/+6285223884761' //discord
+global.snh = 'https://wa.me/+6285223884761'
 
-//⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '081372197701'
-global.Shopepay = '081372197701'
-global.pgopay = 'Gada'
-global.plinkaja = '-' //link aja
-global.ppulsa = 'gada'
-global.ppulsa2 = 'Nanti'
-global.psaweria = 'Nanti'
+//DONASI
+global.pdana = '6281260730830'
+global.shopepay = '𝙸𝚗 𝙲𝚘𝚖𝚖𝚒𝚗𝚐'
+global.pgopay = '𝙸𝚗 𝙲𝚘𝚖𝚖𝚒𝚗𝚐'
+global.plinkaja = '𝙸𝚗 𝙲𝚘𝚖𝚖𝚒𝚗𝚐' //link aja
+global.ppulsa = '𝙸𝚗 𝙲𝚘𝚖𝚖𝚒𝚗𝚐'
+global.ppulsa2 = '𝙸𝚗 𝙲𝚘𝚖𝚖𝚒𝚗𝚐'
+global.psaweria = 'saweria.co/DikiSimarmata'
 
 
-//⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.ListHargaSewa = '├ 4 Hari IDR 5.000\n├ 1 Minggu IDR 10.000\n├ 1 Bulan IDR 20.000\n├ 2 Bulan IDR 25.000\n├ Permanet+RolePremium IDR 50.000'
-//⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
+//𝚃𝙰𝙼𝙿𝙸𝙻𝙰𝙽 𝚂𝙴𝚆𝙰
+global.ListHargaSewa = '◈ 4 Hari IDR 5.000\n 1 Minggu IDR 10.000\n 1 Bulan IDR 20.000\n 2 Bulan IDR 25.000\n Permanet+RolePremium IDR 50.000'
+//⎝ TAMPILAN ⎞ = Yang Perlu Aja Di Edit Kalok Gak Perlu Kagak Usah
 global.LyAtas1 = '☰ ━━━ ❨'
 global.LyAtas2 = '❩ ━━┄┈ •⟅'
 global.Ly = '┃'
@@ -106,26 +103,26 @@ global.dmenut = 'ଓ═┅═━–〈' //top
 global.dmenub = '┊↬' //body
 global.dmenub2 = '┊' //body for info cmd on Default menu
 global.dmenuf = '┗––––––––––✦' //footer
-global.dashmenu = '┅═┅═❏ *DASHBOARD* ❏═┅═┅'
+global.dashmenu = '━━━━━━━〖 𝙳𝚊𝚜𝚑𝚋𝚘𝚊𝚛𝚍 〗━━━━━━━'
 global.cmenut = '❏––––––『' //top
 global.cmenuh = '』––––––' //header
 global.cmenub = '┊✦ ' //body
 global.cmenuf = '┗━═┅═━––––––๑\n' //footer
-global.cmenua = '\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ ⌕\n     '
+global.cmenua = '\n ◈ 𝙺𝚎𝚗 𝙱𝚘𝚝 ◉ 𝙾𝚏𝚏𝚌𝚒𝚊𝚕 𝙱𝚘𝚝 𝚆𝚑𝚊𝚝𝚜𝙰𝚙𝚙 \n     '
 global.pmenus = '✦'
 global.mm1 = '⫹⫺ ╳╶╼╶╶╶╶┈ ⎝'
 global.mm2 = '⎞ ┈╴╴╴╴╾╴╳ ⫹⫺'
 global.htki = '––––––『' // Hiasan Titile (KIRI)
 global.htka = '』––––––' // Hiasan Title  (KANAN)
 global.lopr = 'Ⓟ' //LOGO PREMIUM ON MENU.JS
-global.lolm = 'Ⓛ' //LOGO LIMIT/FREE ON MENU.JS
+global.lolm = '♾︎' //LOGO LIMIT/FREE ON MENU.JS
 global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ RESPOND ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.stiker_wait = '▰▰▰▰▰▰▱▱ 98% 𝚠𝚊𝚒𝚝!!'
 global.wait = '▰▰▰▰▰▰▱▱ 98% 𝚠𝚊𝚒𝚝!!'
-global.eror = 'Mohon Maaf Server Kami Sedang Error!'
+global.eror = '⇶𝙼𝚎𝚗𝚞 𝙸𝚗𝚒 𝙴𝚛𝚛𝚘𝚛'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ RESPOND GEME ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -275,19 +272,19 @@ global.drtf = 'text/rtf'
 //OPTIONS
 global.optsnsfw = true // Untuk mematikan Dan Menyalakan Nsfw
 global.premnsfw = true // Nsfw Mode Premium?
-global.thumb = 'https://telegra.ph/file/d228cf9e49e7413568a1c.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/d228cf9e49e7413568a1c.jpg'
-global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
-global.thumbs = ['https://telegra.ph/file/d228cf9e49e7413568a1c.jpg']
+global.thumb = 'https://telegra.ph/file/16770368c41f32cf80883.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/16770368c41f32cf80883.jpg'
+global.giflogo = 'https://telegra.ph/file/16770368c41f32cf80883.jpg'
+global.thumbs = ['https://telegra.ph/file/16770368c41f32cf80883.jpg']
 global.thumbnailUrl = [
-  'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg', 'https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
-  'https://telegra.ph/file/6359b013bc7e52c3b346f.jpg', 'https://telegra.ph/file/d43c89a5d2da72875ec05.jpg',
-  'https://telegra.ph/file/7d6c0e35f9c8f52715541.jpg', 'https://telegra.ph/file/ef4b742d47e6a9115e2ff.jpg',
-  'https://telegra.ph/file/55e5af5f33fbd57104187.jpg', 'https://telegra.ph/file/af236598456b95884bd15.jpg',
-  'https://telegra.ph/file/de92ed4a729887ffc974c.jpg', 'https://telegra.ph/file/00ce42a193b1dbbf907d4.jpg'
+  'https://telegra.ph/file/16770368c41f32cf80883.jpg', 'https://telegra.ph/file/16770368c41f32cf80883.jpg',
+  'https://telegra.ph/file/16770368c41f32cf80883.jpg', 'https://telegra.ph/file/16770368c41f32cf80883.jpg',
+  'https://telegra.ph/file/16770368c41f32cf80883.jpg', 'https://telegra.ph/file/16770368c41f32cf80883.jpg',
+  'https://telegra.ph/file/16770368c41f32cf80883.jpg', 'https://telegra.ph/file/16770368c41f32cf80883.jpg',
+  'https://telegra.ph/file/16770368c41f32cf80883.jpg', 'https://telegra.ph/file/16770368c41f32cf80883.jpg'
 ]
-global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/e72de2cbba03f58eba7d1.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/16770368c41f32cf80883.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/16770368c41f32cf80883.jpg' //ini juga ganti 
 global.flaaa2 = [
  "https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text=",
  "https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&text=",
@@ -515,17 +512,17 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 'https://telegra.ph/file/180e28807e78419d45537.jpg','https://telegra.ph/file/140eff27be983e0cd6781.jpg','https://telegra.ph/file/1581b791e16d0029e16b5.jpg','https://telegra.ph/file/6a4b36372b4f265bae3bc.jpg','https://telegra.ph/file/093caff422f194f00bc6c.jpg','https://telegra.ph/file/2294b7ab49eca8a8046b2.jpg','https://telegra.ph/file/869224d1c417e8b5c8ff1.jpg','https://telegra.ph/file/a78443f0ee887f46808d7.jpg','https://telegra.ph/file/1889878933264d16c58bf.jpg','https://telegra.ph/file/735aeb47d9c4aa87aaaf3.jpg','https://telegra.ph/file/fcf861516db09dda164e0.jpg','https://telegra.ph/file/355d96d7e06d109435f67.jpg']
 
 
-global.dtu = '?????????'
-global.urlnya = "https://www.instagram.com/Arifzyn19_"
-global.dtc = '???? ?????'
-global.phn = '0895-3471-98105'
+global.dtu = 'Whatsapp'
+global.urlnya = "wa.me/+6285223884761"
+global.dtc = 'Whatsapp'
+global.phn = '6281260730830'
 
 
-//?? 肓??????帕 ? JNGN DI UBAH ? 帕??????肓 ??
+//𝙿𝙴𝙼𝙱𝙰𝚃𝙰𝚂 𝙹𝙰𝙽 𝙳𝙸 𝚄𝙱𝙰𝙷
 
 global.fsizedoc = '99999999999999'
 global.fpagedoc = '999'
-global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
+global.thumbdoc = 'https://telegra.ph/file/16770368c41f32cf80883.jpg'
 
 let file = fileURLToPath(import.meta.url)
 watchFile(file, () => {
