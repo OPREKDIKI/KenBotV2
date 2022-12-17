@@ -54,7 +54,7 @@ let time = moment.tz('Asia/Jakarta').format('HH:mm:ss')
   ◉ 𝙼𝚘𝚍𝚎 : Public
   ◉ 𝚃𝚒𝚖𝚎 : ${time}
   `
-await conn.sendButton(m.chat, cap, '◉ 𝙾𝚏𝚏𝚌𝚒𝚊𝚕 𝙱𝚘𝚝 𝚆𝚑𝚊𝚝𝚜𝚊𝚙𝚙', Buffer.alloc(0), [['List Menu', '.tesm'], ['All Menu', '/allmenu']], fkontak, { mimetype: "text/rtf", fileName: '𝑺𝒊𝒎𝒑𝒍𝒆 𝑩𝒐𝒕 𝑾𝒉𝒂𝒕𝒔𝑨𝒑𝒑 𝑩𝒚Andre' + nameown1, pageCount: 90000, fileLength: 90000, seconds: 90000, jpegThumbnail: pepe,
+await conn.sendButton(m.chat, cap, '◉ 𝙾𝚏𝚏𝚌𝚒𝚊𝚕 𝙱𝚘𝚝 𝚆𝚑𝚊𝚝𝚜𝚊𝚙𝚙', Buffer.alloc(0), [['𝙻𝚒𝚜𝚝', '.tesm'], ['𝙰𝚕𝚕', '/allmenu']], fkontak, { mimetype: "text/rtf", fileName: 'HaHaHa☬' + nameown1, pageCount: 90000, fileLength: 90000, seconds: 90000, jpegThumbnail: pepe,
           contextInfo: {
 				forwardingScore: fsizedoc,
 				externalAdReply: {
